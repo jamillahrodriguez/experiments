@@ -1,0 +1,23 @@
+
+<div class="trialpartWrapper" style="clear:both; text-align: center;">
+	Por favor, ouça as frases abaixo.
+	<p>
+	<%= makeSoundButton({soundFile: file_sentence, disable: true, hide: true }) %>
+</div>
+
+
+<div class="trialpartWrapper" style="clear:both; text-align: center;">
+	Agora ouça a palavra da frase.
+	<p>
+	<%= makeSoundButton({soundFile: file_word, disable: true, hide: true }) %>
+</div>
+
+
+<div class="trialpartWrapper" style="clear:both; text-align: center;">  
+	A palavra <b><i><%= item %></i></b> é aceitável ou inaceitável? 
+	<p>
+	<%= makeScale({buttons: ["Inaceitável","Aceitável"], edgelabels: ["", ""]}) %>
+</div>
+
+
+<div style="clear: both; height: 1px;">&nbsp;</div>
