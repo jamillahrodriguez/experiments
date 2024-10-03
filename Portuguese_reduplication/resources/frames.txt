@@ -1,0 +1,41 @@
+id	text1	text2
+1	Muitos ladrões roubam naquela cidade.	Todos estavam apavorados com o ____________.
+2	Depois de pintada a casa, Maria decidiu trocar de cor várias vezes.	Foi um mês de __________ de casa.
+3	Na minha rua, passa muita gente.	Não há horário em que não vejamos um ______________.
+4	Juntei muita coisa que não usava para doar.	Os funcionários ficam o dia de ______________.
+5	José passa horas cantando canções no chuveiro.	Esse _________ é terrível.
+6	Elas unharam uma a outra.	Foi um ____________ de 10 minutos.
+7	O cliente olhou a mercadoria várias vezes.	Aquele _________ incomodou a vendedora.
+8	A tarefa era muito difícil e os alunos não entenderam.	A aula converteu-se em um __________ geral.
+9	Seria bom que o amor fosse mais disseminado.	Seria aquele ________ para acabar com o ódio!
+10	O promotor indagou o réu por diversas vezes.	O _________ durou a tarde inteira.
+11	João passou o dia remontando os móveis depois da mudança.	Ficou cansado depois daquele ____________.
+12	José ganhou um estojo de desenho.	Fica agora o dia todo nesse _________.
+13	Ele nunca termina o que começou.	As coisas para ele são um eterno _____________.
+14	Os cientistas chegaram a relatar as experiências.	O _____________ foi demorado.
+15	Os corpos estavam sendo dissecados pelo especialista.	O _____________ durou o dia inteiro.
+16	Tivemos muito trabalho para fazer o isolamento dos fios.	Foi o dia inteiro de _____________.
+17	Não me interessa o que alegam.	São culpados e não vem ao caso o seu _____________.
+18	Os times nesse campeonato sempre jogam para empatar.	Assisti a todos os jogos e foi um _____________.
+19	Os manifestantes ocuparam todas as salas do prédio.	Aquele __________ desesperava a direção do instituto.
+20	Os cães da vizinha uivam o dia inteiro.	Esse __________ atrapalha minha concentração.
+21	O rapaz adora pocar seu caderno.	Fica nesse _____________ o dia todo.
+22	Jonas vive subando a perna.	Passa a semana nesse _____________.
+23	Aline sempre bonha o cabelo.	Não passa um dia sem esse _____________.
+24	Maria ficou navando o celular.	Era um ________ incessante.
+25	Eles queriam nelar a bicicleta. 	Se deixássemos, seria aquele __________.
+26	Eu empei minha mochila hoje.	Felizmente esse _____________ não durou muito.
+27	Aquiles sempre hitava os pais.	Aquele _____________ não era muito agradável.
+28	O pedreiro ompou a calçada a tarde toda.	Foi um ompa-ompa muito barulhento. 
+29	João precisou adar as frutas.	Ele detesta esse _____________.
+30	Os bombeiros umparam todo o prédio.	Foi um __________ trabalhoso.
+31	Não consegui pissipar as garrafas.	Quando começo, o _____________ não para.
+32	Robson deve cafetar a louça daqui a pouco.	O _____________ começa já já. 
+33	Os policiais renalaram a vizinhança pela manhã.	O _____________ parecia interminável.
+34	Consegui vapezar as plantas hoje.	O _____________ durou quase a manhã toda.
+35	Você não se preocupou em cutochar na prova.	Antigamente seu _______ era comum.
+36	João adora irregar o carro pela manhã.	O _____________ parece infinito.
+37	Maria queria esonhar os livros.	Esse _____________ é desconcertante.
+38	José gosta muito de acarrar os vizinhos.	Esse _____________ resulta em briga às vezes.
+39	Você sempre dá um jeito de urrubar seus clientes.	Esse __________ vai acabar com seu negócio.
+40	O carteiro olipou as encomendas muito rápido.	Aquele ________ era de admirar.
